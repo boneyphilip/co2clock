@@ -2,7 +2,7 @@
 
 ![CO₂ Clock Mockup](assets/images/mockup.webp)
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Website-View%20Now-brightgreen)](https://boneyphilip.github.io/duplicate-co2clock/)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Website-View%20Now-brightgreen)](https://boneyphilip.github.io/co2clock/)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
@@ -964,7 +964,7 @@ Result: A fully interactive, immersive data experience with zero server dependen
 ### Folder Structure
 
 ```bash
-📦 duplicate-co2clock
+📦 co2clock
 ├── 📜 index.html #              🌍 Home page with CO₂ counter
 ├── 📜 dash_board.html #         📊 Dashboard with 70 countries
 ├── 📜 articles.html #           📚 Educational articles
@@ -1364,7 +1364,7 @@ The site is deployed using GitHub Pages for free static hosting.
 4. Choose **main** branch and **/ (root)** folder
 5. Click **Save**
 6. GitHub automatically builds and deploys the site
-7. Site becomes available at: `https://boneyphilip.github.io/duplicate-co2clock/`
+7. Site becomes available at: `https://boneyphilip.github.io/co2clock/`
 
 **Deployment Benefits:**
 - ✅ Free hosting (no cost)
@@ -1381,10 +1381,10 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/boneyphilip/duplicate-co2clock.git
+git clone https://github.com/boneyphilip/co2clock.git
 
 # Navigate to project directory
-cd duplicate-co2clock
+cd co2clock
 
 # Option 1: Open with Live Server (VS Code extension)
 # Right-click index.html → "Open with Live Server"
@@ -1489,9 +1489,9 @@ npx http-server
 
 **GitHub:** [@boneyphilip](https://github.com/boneyphilip)
 
-**Repository:** [https://github.com/boneyphilip/duplicate-co2clock](https://github.com/boneyphilip/duplicate-co2clock)
+**Repository:** [https://github.com/boneyphilip/co2clock](https://github.com/boneyphilip/co2clock)
 
-**Live Site:** [https://boneyphilip.github.io/duplicate-co2clock/](https://boneyphilip.github.io/duplicate-co2clock/)
+**Live Site:** [https://boneyphilip.github.io/co2clock/](https://boneyphilip.github.io/co2clock/)
 
 **Social Media:**
 - Facebook: [CO₂ Clock](https://www.facebook.com/)
